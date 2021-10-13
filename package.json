@@ -1,0 +1,21 @@
+{
+    "name": "catsmeow",
+    "displayName": "CatsMeow",
+    "description": "Vivid color theme created by a cat",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CatsMeow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CatsMeow-color-theme.json"
+            }
+        ]
+    }
+}
