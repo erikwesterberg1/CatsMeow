@@ -3,6 +3,21 @@
     "displayName": "CatsMeow",
     "description": "Vivid color theme created by a cat",
     "version": "0.0.1",
+    "publisher": "PetsRoar",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "darkblue",
+        "CatsMeow",
+        "colors",
+        "Theme",
+        "vs theme",
+        "interface"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
